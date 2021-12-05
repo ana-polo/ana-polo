@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi, I'm Ana! 
 
-<!--
-**ana-polo/ana-polo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Computers teacher at IES Alisal (Spain)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+ A little more about me...
+
+- 🔭 I’m currently working as DBM teacher at IES Alisal
+- 🌱 I’m currently learning DevOps Tools and Technologies
+>!--- - 📫 How to reach me: 
+* Linkedin: ana.polo 
+* GitHub ana-polo
 -->
+- ⚡ Fun fact: I'm coming to teen
+
+⭐️ From [ana-polo](https://github.com/ana-polo)
