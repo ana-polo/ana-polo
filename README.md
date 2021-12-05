@@ -8,7 +8,7 @@ Computers teacher at IES Alisal (Spain)
 
 - 🔭 I’m currently working as DBM teacher at IES Alisal
 - 🌱 I’m currently learning DevOps Tools and Technologies
->!--- - 📫 How to reach me: 
+<!--- - 📫 How to reach me: 
 * Linkedin: ana.polo 
 * GitHub ana-polo
 -->
