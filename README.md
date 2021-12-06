@@ -1,12 +1,12 @@
 Hi, I'm Ana! 
 
 
-Computers teacher at IES Alisal (Spain)
+Computers science teacher at IES Alisal (Spain)
 
 
  A little more about me...
 
-- 🔭 I’m currently working as Database Management teacher at IES Alisal
+- 🔭 I’m currently teaching **_Database Management_** to the students of the **Higher Vocational Trainning Degree in Computer Network Systems Management**
 - 🌱 I’m currently learning DevOps Tools and Technologies
 <!--- - 📫 How to reach me: 
 * Linkedin: ana.polo 
