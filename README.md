@@ -8,10 +8,6 @@ Computers science teacher at IES Alisal (Spain)
 
 - 🔭 I’m currently teaching **_Database Management_** to the students of the **Higher Vocational Trainning Degree in Computer Network Systems Management**
 - 🌱 I’m currently learning DevOps Tools and Technologies
-<!--- - 📫 How to reach me: 
-* Linkedin: ana.polo 
-* GitHub ana-polo
--->
-- ⚡ Fun fact: I'm coming to teen
+- ⚡ Fun fact: *I'm coming to teen* 😃
 
 ⭐️ From [ana-polo](https://github.com/ana-polo)
